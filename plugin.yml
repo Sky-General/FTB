@@ -1,0 +1,8 @@
+name: Find The Bomb
+author: Sky_General109
+version: ALPHA
+description: Find the bomber and kill them before it is to late!
+main: me.skyGeneral.ftb.Main
+commands:
+  leave:
+    description: Leave your current arena.
